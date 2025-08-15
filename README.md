@@ -1,6 +1,6 @@
 # Almgren Chriss Optimal Trade Execution Model
 
-Data: minute data of NIFTY100 stocks during COVID dip
+Data: minute data of NIFTY50 stocks during COVID dip
 
 Parameter Calliberation: Prior day data for model parameters, Risk aversion parameter chosen from optimal trade frontier
 
